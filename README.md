@@ -38,7 +38,7 @@ Implemented core ML models using scikit-learn: Decision Tree, Logistic Regressio
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Vaishnavishatagopam77/Heart_disease_prediction
    cd your-repo-name
    ```
 2. Install dependencies:
